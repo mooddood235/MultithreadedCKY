@@ -1,5 +1,5 @@
 # MultithreadedCKY
-A multithreaded implementation of the CKY parsing algorithm in C++. This was completed as part of the final project for LIN340: Computing with Natural Language, at the University of Toronto Mississauga. A report detailing the implementation, performance tests, and how it compares with the traditional single-threaded version can be found [here](https://github.com/user-attachments/files/19653495/Final.Paper.-.EDITTED.1.pdf).
+A multithreaded implementation of the CKY parsing algorithm in C++. This was completed as part of the final project for LIN340: Computing with Natural Language, at the University of Toronto Mississauga. A report detailing the implementation, performance tests, and how it compares with the traditional single-threaded version can be downloaded by clicking [this link](https://github.com/user-attachments/files/19653495/Final.Paper.-.EDITTED.1.pdf).
 
 
 ## Build Instructions
